@@ -1,0 +1,21 @@
+Size of heap: 3
+Heap is empty: false
+Heap printed below:
+-5 10 0 
+
+New Heap created.
+Size of heap: 0
+Heap is empty: true
+Information was added to the heap.
+Size of heap: 13
+Heap is empty: false
+Heap printed below:
+-100 -5 6 5 0 8 12 10 7 56 15 17 47 
+-100 was removed from the heap.
+-5 was removed from the heap.
+Heap printed below:
+6 5 0 8 12 10 7 56 15 17 47 
+
+New Heap created.
+Heap printed below:
+-100 -5 6 5 0 8 12 10 7 56 15 17 47 
