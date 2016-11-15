@@ -1,0 +1,19 @@
+Daniel Cancelmo
+Lab 4
+CSC 172 - Professor Pawlicki
+Lab: Mon. & Wed. 12:30-1:45 | TAs: Willie Cohen & JP Castano
+I did not collaborate with anyone on this assignment.
+Output file
+
+When executed, these files print the following to the terminal:
+
+list1 is empty: true
+list1 is empty: false
+-3	567	456	1
+list1 contains 1: true
+list1 contains 2: false
+list1 contains -3: true
+Entry with value 456 in list1: 456
+Entry with value 45 in list1: null
+456 has been deleted from the list. New list will be printed.
+-3	567	1

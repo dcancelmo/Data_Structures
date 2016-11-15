@@ -1,0 +1,9 @@
+The queue is empty: true
+Data has been added to the queue. The queue is empty: false
+The front data item on the queue currently is: 10 This data has not been removed.
+The front data item on the queue currently is: 10 This data has been removed.
+Let's remove what we have left...
+5
+47
+539
+The queue is empty: true

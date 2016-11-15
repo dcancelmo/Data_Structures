@@ -1,0 +1,37 @@
+Daniel Cancelmo
+Lab 13
+CSC 172 - Professor Pawlicki
+Lab: Mon. & Wed. 12:30-1:45 | TAs: Willie Cohen & JP Castano
+I did not collaborate with anyone on this assignment.
+Output file
+
+When ‘GraphTest.java’ is executed, these files print the following to the terminal:
+
+Graph 9.10 is directed: true
+	has 7 vertices.
+	has 12 edges.
+Graph 9.10 has node 5 directing to node 7: true
+Graph 9.10 has node 7 directing to node 5: false
+Adjacency Array shown below:
+0: 1 3 -1 
+1: 3 4 -1 
+2: 0 -1 
+3: 2 4 5 6 -1 
+4: 6 -1 
+5: 2 -1 
+6: 5 -1 
+Edge from 4 to 6 was not in the graph, no change made.
+Edge from node5 to node7 has been deleted.
+
+Graph 9.62 is directed: false
+	has 5 vertices.
+	has 7 edges.
+Graph 9.62 has node A (0) directing to node D (3): true
+Graph 9.62 has node E (4) directing to node D (3): false
+Adjacency Array shown below:
+0: 1 3 4 -1 
+1: 0 2 3 -1 
+2: 1 3 4 -1 
+3: 0 1 2 -1 
+4: 0 2 -1 
+Edge from node4 to node2 has been deleted.

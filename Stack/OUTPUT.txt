@@ -1,0 +1,10 @@
+The stack is empty: true
+Data has been added to the stack. The stack is empty: false
+The top data item on the stack currently is: 47 This data has not been removed.
+The top data item on the stack currently is: 539 This data has been removed.
+Remember this data item? He's back: 47 This data has been removed.
+Let's see what we have left...
+5
+10
+null
+Oppps, our stack is empty again!

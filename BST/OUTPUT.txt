@@ -1,0 +1,18 @@
+Duplicate value of: 0 not entered.
+Duplicate value of: 10 not entered.
+Printed tree pre-order:
+10 0 -10 -20 -5 -3 5 20 13 50 
+Printed tree in-order:
+-20 -10 -5 -3 0 5 10 13 20 50 
+Printed tree post-order:
+-20 -3 -5 -10 5 0 13 50 20 10 
+Tree contains the data item 0: true
+Tree contains the data item 100: false
+Tree contains the data item -3: true
+Tree contains the data item 3: false
+50 and -5 deleted. Print new tree pre-order:
+10 0 -10 -20 -3 5 20 13 
+20 deleted. Print new tree post-order:
+-20 -3 -10 5 0 13 10 
+10 deleted. Print new tree in-order:
+-20 -10 -3 0 5 13 
